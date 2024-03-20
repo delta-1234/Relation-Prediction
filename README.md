@@ -116,7 +116,7 @@ python3 main.py --data ./data/2021/ --epochs_gat 800 --epochs_conv 50 --weight_d
 
 ## 四、知识图谱展示
 
-安装neo4j-community-5.16.0，运行neo4j console，即可看到http://localhost:7474/browser/看到前端界面，运行node.py脚本，将知识图谱插入neo4j数据库，实现知识图谱的展示
+安装neo4j-community-5.16.0，运行neo4j console，即可看到http://localhost:7474/browser/ 看到前端界面，运行node.py脚本，将知识图谱插入neo4j数据库，实现知识图谱的展示
 
 
 
